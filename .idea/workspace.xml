@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69f42aa-59c0-4354-91be-2393ca5c898e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Manager/services/MoviesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Manager/services/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Manager/services/SecondMovieTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Manager/services/MovieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Manager/services/MovieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Manager/services/SecondMovieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Manager/services/SecondMovieTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +40,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/IdeaProjects/mavenShy/src/test/java/org/example/Manager/services"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/IdeaProjects/mavenShy/src/test/java/org/example/Manager/services&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SecondMovieTest.testFourManager">
+    <configuration name="MovieTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenShy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Manager.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Manager.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Manager.services.MovieTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondMovieTest.testFourManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenShy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Manager.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Manager.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Manager.services.SecondMovieTest" />
+      <option name="METHOD_NAME" value="testFourManager" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SecondMovieTest.testSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mavenShy" />
       <extension name="coverage">
@@ -75,8 +102,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondMovieTest.testSecondManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenShy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Manager.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Manager.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Manager.services.SecondMovieTest" />
+      <option name="METHOD_NAME" value="testSecondManager" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondMovieTest.testThreeManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenShy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Manager.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Manager.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Manager.services.SecondMovieTest" />
+      <option name="METHOD_NAME" value="testThreeManager" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SecondMovieTest.testFourManager" />
+        <item itemvalue="JUnit.SecondMovieTest.testSecondManager" />
+        <item itemvalue="JUnit.SecondMovieTest.testThreeManager" />
+        <item itemvalue="JUnit.MovieTest.test" />
         <item itemvalue="JUnit.SecondMovieTest.testSecond" />
       </list>
     </recent_temporary>
